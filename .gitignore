@@ -1,0 +1,12 @@
+# 数据文件夹
+data/
+
+# 模型权重
+*.pth
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.vscode/
+__pycache__/
+*.pyc

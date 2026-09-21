@@ -66,8 +66,8 @@ class Config_TN3K:
 
 class Config_BUSI:
     # This dataset is for breast cancer segmentation
-    data_path = "../../dataset/SAMUS/"
-    data_subpath = "../../dataset/SAMUS/Breast-BUSI/"   
+    data_path = "./data/US30K/"
+    data_subpath = "./data/US30K/Breast-BUSI/"   
     save_path = "./checkpoints/BUSI/"
     result_path = "./result/BUSI/"
     tensorboard_path = "./tensorboard/BUSI/"
